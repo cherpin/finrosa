@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Аудиторская компания «ФИНРОСА»</title>
+    <link>http://static.contact-us.ru/finrosa/about/</link>
+    <description>Recent content in Abouts on Аудиторская компания «ФИНРОСА»</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <copyright>ФИНРОСА</copyright>
+    <lastBuildDate>Wed, 17 May 2017 04:10:26 +0300</lastBuildDate>
+    
+	<atom:link href="http://static.contact-us.ru/finrosa/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>О компании</title>
+      <link>http://static.contact-us.ru/finrosa/about/</link>
+      <pubDate>Wed, 17 May 2017 04:10:26 +0300</pubDate>
+      
+      <guid>http://static.contact-us.ru/finrosa/about/</guid>
+      <description>Миссия Аудиторской компании Применять знания и опыт в области аудита финансовой (бухгалтерской) отчетности во благо развития бизнеса. Способствовать долгосрочному и стабильному экономическому росту, быть надежным партнером на рынке консалтинговых услуг.
+Аудиторы Команда специалистов, которая находит эффективные и современные решения в области аудита и бухгалтерского учета.
+Цель Совершенствование качества представляемых услуг, получение новых знаний и опыта, поддержание стабильности бизнеса, стремление к профессиональному росту.
+Дизайн системы внутреннего контроля Обеспечивается автоматизированной системой внутреннего контроля качества аудиторских услуг.</description>
+    </item>
+    
+  </channel>
+</rss>

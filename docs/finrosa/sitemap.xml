@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/traineeship/</loc>
+        <lastmod>2017-05-17T04:11:53+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/job/</loc>
+        <lastmod>2017-05-17T04:11:22+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/doc/</loc>
+        <lastmod>2017-05-17T04:11:10+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/contacts/</loc>
+        <lastmod>2017-05-17T04:10:48+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/about/</loc>
+        <lastmod>2017-05-17T04:10:26+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/</loc>
+        <lastmod>2017-05-17T04:09:43+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/about/</loc>
+        <lastmod>2017-05-17T04:10:26+03:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/categories/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/contacts/</loc>
+        <lastmod>2017-05-17T04:10:48+03:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/doc/</loc>
+        <lastmod>2017-05-17T04:11:10+03:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/job/</loc>
+        <lastmod>2017-05-17T04:11:22+03:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/tags/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/traineeship/</loc>
+        <lastmod>2017-05-17T04:11:53+03:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>http://static.contact-us.ru/finrosa/</loc>
+        <lastmod>2017-05-17T04:11:53+03:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+</urlset>

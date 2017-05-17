@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 13.029915 13.029914"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/Users/cd/work/finrosa/static/favicon.png"
+   inkscape:export-xdpi="62.379532"
+   inkscape:export-ydpi="62.379532">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#1c14ed"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.0095201"
+     inkscape:cx="-2.6207439"
+     inkscape:cy="-8.367044"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1792"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="false"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.953506,-94.600756)">
+    <g
+       aria-label="ФИНРОСА"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text3686"
+       inkscape:export-filename="/Users/cd/work/finrosa/static/favicon.png"
+       inkscape:export-xdpi="61.440029"
+       inkscape:export-ydpi="61.440029"
+       transform="translate(0,-2.7087557)">
+      <path
+         d="m 67.12355,101.42433 q 0.454753,0.38241 0.697632,0.94568 0.248047,0.55811 0.248047,1.28158 0,0.71313 -0.253215,1.27641 -0.253214,0.56327 -0.728637,0.96118 -0.485759,0.39791 -1.121379,0.62012 -0.630452,0.2222 -1.467611,0.27905 v 0.84232 h -1.974039 v -0.84232 q -0.81132,-0.0568 -1.467611,-0.27905 -0.65629,-0.22738 -1.126546,-0.62529 -0.470256,-0.39791 -0.72347,-0.95601 -0.253215,-0.55811 -0.253215,-1.27641 0,-0.72347 0.24288,-1.26607 0.242879,-0.54261 0.702799,-0.93535 0.449585,-0.37724 1.126546,-0.59944 0.676962,-0.22738 1.498617,-0.28939 v -0.785484 h 1.974039 v 0.785484 q 0.852662,0.0465 1.503785,0.26355 0.65629,0.21187 1.121378,0.59944 z m -1.105875,2.19625 q 0,-0.74414 -0.392741,-1.20923 -0.392741,-0.46508 -1.126547,-0.56327 v 3.65869 q 0.852662,-0.14986 1.183391,-0.60461 0.335897,-0.45992 0.335897,-1.28158 z m -3.493327,1.88619 v -3.65869 q -0.754476,0.11369 -1.136882,0.55811 -0.382405,0.43925 -0.382405,1.21439 0,0.81132 0.341064,1.27641 0.346232,0.45992 1.178223,0.60978 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.26458332"
+         id="path3742"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3692"
+       d="m 67.249859,97.147201 2.8422,7.694609 h 1.89136 l -2.84221,-7.694609 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/cd/work/finrosa/static/favicon.png"
+       inkscape:export-xdpi="61.440029"
+       inkscape:export-ydpi="61.440029" />
+  </g>
+</svg>
